@@ -24,3 +24,13 @@ It provides linguistically informed, high-performance NLP tools that go far beyo
 Unlike plain string methods (like .split()), spaCy performs tokenization, part-of-speech tagging, named entity recognition, dependency parsing, and lemmatization using pretrained language models.
 
 Provides deeper understanding of text structure and meaning, which is essential for tasks like sentiment analysis, text classification, and information extraction.
+
+---
+
+Comparative Analysis: Scikit-learn vs TensorFlow
+
+Scikit-learn and TensorFlow differ mainly in their target applications, ease of use, and community support. Scikit-learn is primarily designed for classical machine learning algorithms such as linear and logistic regression, decision trees, clustering, and support vector machines. It is ideal for smaller datasets and quick experimentation with traditional models. In contrast, TensorFlow focuses on deep learning and neural networks, offering extensive support for large-scale data processing and hardware acceleration using GPUs and TPUs. It is more suitable for complex tasks like image recognition, natural language processing, and large-scale model deployment.
+
+In terms of ease of use, Scikit-learn is generally simpler for beginners. It provides a clean, consistent API and requires minimal code to train and evaluate models. TensorFlow, while more powerful, has a steeper learning curve due to its emphasis on neural network construction, data pipelines, and computational graphs. However, TensorFlow 2.x has introduced a more user-friendly interface with Keras, making model development more intuitive.
+
+Regarding community support, both libraries have large user bases, but their focus differs. Scikit-learn enjoys strong support in academic and industrial research communities dealing with classical machine learning problems. TensorFlow, backed by Google, benefits from an enormous ecosystem, comprehensive documentation, frequent updates, and wide adoption across enterprise-level AI and deep learning projects.
