@@ -74,3 +74,4 @@ pip install -r requirements.txt
 cd task2
 streamlit run app.py
 ```
+streamlit deployment link, https://fadhi1i-week3-task2app-fyr59f.streamlit.app/
